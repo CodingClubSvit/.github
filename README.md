@@ -30,8 +30,8 @@ Our mission is to create an inclusive and engaging community where students can 
 
 - **Email:** [codingclub@svitvasad.ac.in](mailto:codingclub@svitvasad.ac.in)
 - **Join our Discord Server:** [Invite Link](#) (coming soon!)
-Follow us on LinkedIn: [Coding Club Svit](https://linkedin.com/coding-club-svit/)
-Follow us on Instagram: [Coding Club Svit](https://www.instagram.com/codingclubsvit?igsh=NWh6OXR5OGgzZTE3/)
+- Follow us on LinkedIn: [Coding Club Svit](https://linkedin.com/coding-club-svit/)
+- Follow us on Instagram: [Coding Club Svit](https://www.instagram.com/codingclubsvit?igsh=NWh6OXR5OGgzZTE3/)
 Let's code, learn, and grow together. We look forward to seeing you in our community!
 
 ![codingclub-removebg-preview](https://github.com/CodingClubSvit/.github/assets/100040922/0f27448d-566f-4738-b94d-b26fe36904d4)
